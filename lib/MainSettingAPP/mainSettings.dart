@@ -38,8 +38,6 @@ class MainSettings{
 
 //DiscriptionsScreenSections
 
-  String url = 'https://uyitvyzwhjxikorodpez.supabase.co';
-  String anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InV5aXR2eXp3aGp4aWtvcm9kcGV6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM3MDk1NjcsImV4cCI6MjAyOTI4NTU2N30.N_4YY9ltyLXSyvpXO6FHItd6srcJGsiNCJ9vYUy4S_s';
-
+ 
 
 }
