@@ -1,0 +1,12 @@
+export 'age_limited.dart';
+export 'manga_categori.dart';
+export 'manga_gengers.dart';
+export 'status.dart';
+export 'titiles.dart';
+export 'types.dart';
+export 'manga_data.dart';
+export 'searche_manga.dart';
+export 'manga_publish_statys.dart';
+export 'manga_details.dart';
+export 'manga_chapters_page.dart';
+export 'manga_chapters.dart';

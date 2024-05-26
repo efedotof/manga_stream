@@ -1,0 +1,1 @@
+export 'seguranca_screen.dart';

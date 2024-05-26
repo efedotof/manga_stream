@@ -1,0 +1,1 @@
+export 'capitulos_screen.dart';

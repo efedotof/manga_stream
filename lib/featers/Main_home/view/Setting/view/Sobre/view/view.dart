@@ -1,0 +1,1 @@
+export 'sobre_screen.dart';

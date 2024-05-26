@@ -1,0 +1,1 @@
+export 'idioma_screen.dart';
